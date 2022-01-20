@@ -9,5 +9,5 @@ OpenJetECU
 
 ![OpenJetECU Schematic](FCC.jpeg)
 
-![OpenJetECU Schematic](TurboJet_Engine_ECU.PNG)
+![OpenJetECU Schematic](TurboJet_Engine_ECU.png)
 
