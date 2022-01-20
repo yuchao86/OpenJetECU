@@ -7,3 +7,7 @@ Currently, there are one design:
 OpenJetECU
 
 
+![OpenJetECU Schematic](FCC.jpeg)
+
+![OpenJetECU Schematic](TurboJet_Engine_ECU.PNG)
+
